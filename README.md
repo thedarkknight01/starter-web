@@ -14,6 +14,4 @@ Adding this line for merge
 
 ###Copyright
 
-2021 Sanjeev
-
-Just adding a few more line for rebasing, more changes from myfeature branch too
+2021 Sanjeev. All rights reserved
