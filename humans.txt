@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sanjeev Kumar amsanjeevkumar@gmail.com
 
 # THANKS
 
