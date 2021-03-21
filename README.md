@@ -9,3 +9,7 @@ Adding few more lines
 ## Purpose
 
 Sample website with plenty of files for demos
+
+###Copyright
+
+2021 Sanjeev
