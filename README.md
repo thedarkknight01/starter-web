@@ -10,6 +10,8 @@ Adding few more lines
 
 Sample website with plenty of files for demos
 
+Adding this line for merge
+
 ###Copyright
 
 2021 Sanjeev
