@@ -6,6 +6,8 @@ Adding some lines
 
 Adding few more lines
 
+Emergency fix
+
 ## Purpose
 
 Sample website with plenty of files for demos
